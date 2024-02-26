@@ -17,7 +17,7 @@ html {
   background-color: rgb(27, 25, 25);
   margin: auto;
   justify-content: center;
-  padding-top: 132px;
+  align-items: center;
 }
 
 h1,
